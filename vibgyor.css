@@ -1,0 +1,44 @@
+td {
+    height: 300px;
+    width: 200px;
+    border: solid 20px white;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Pacifico', cursive;
+}
+
+
+h1 {
+
+    text-align: center;
+    color: blueviolet
+}
+
+#Violet {
+
+    background-color: violet;
+}
+
+#Indigo {
+    background-color: indigo;
+}
+
+#Blue {
+    background-color: blue;
+}
+
+#Green {
+    background-color: green;
+}
+
+#Yellow {
+    background-color: yellow;
+}
+
+#Orange {
+    background-color: orange;
+}
+
+#Red {
+    background-color: red;
+}
